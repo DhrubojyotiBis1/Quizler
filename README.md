@@ -1,2 +1,2 @@
-# Quizler
+# Quizzler
 A quiz app.
